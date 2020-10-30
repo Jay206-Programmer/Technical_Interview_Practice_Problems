@@ -1,4 +1,4 @@
-# Technical_Interview_Practice_Problems
+# Technical Interview Practice Problems
 
 ### About this Repository :grey_exclamation:
 - This repository contains **solved** _**Technical Interview questions**_ which was _**asked in** well known **IT Companies**_(I have made sure that they **actualy got asked**).
