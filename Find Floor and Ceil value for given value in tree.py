@@ -1,11 +1,18 @@
+# Asked in Apple
+#Given an integer k and a binary search tree, find the floor (less than or equal to) of k, 
+# and the ceiling (larger than or equal to) of k. If either does not exist, then print them as None.
+
+#Here is the definition of a node for the tree.
+
 class Node:
     def __init__(self, value):
         self.left = None
         self.right = None
         self.value = value
 
-def findCeilingFloor(root_node, k, floor=None, ceil=None):
+def findCeilingFloor(root_node, k, floor=None, ceil=None): #O(n) Time
     
+    #Main Logic(checks & updates floor and ceil values)
     if root_node.value < k:
         if floor == None: floor = root_node.value
         
@@ -17,7 +24,7 @@ def findCeilingFloor(root_node, k, floor=None, ceil=None):
         elif root_node.value-k < ceil-k:
             ceil = root_node.value
 
-    #Traverser
+    #Traverser(Traverses the tree)
     if root_node.left == None and root_node.right == None:
         pass
 
