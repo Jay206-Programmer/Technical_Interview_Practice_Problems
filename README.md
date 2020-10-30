@@ -1,4 +1,4 @@
-# Compatitive_Programing_Practice_Problems
+# Technical_Interview_Practice_Problems
 
 ### About this Repository
 - This repository contains **solved** _**Technical Interview questions**_ which was _**asked in** well known **IT Companies**_(I have made sure that they **actualy got asked**).
