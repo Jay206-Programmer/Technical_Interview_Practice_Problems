@@ -5,7 +5,7 @@
 - Every program contains a **Problem Statement**, **Examples** & the **name of the company** in which it was asked.
 - I will try to update the repository daily as I solve the problems.
 
-If you want to **add to the repositoy**, check the **Contribute.md** file. :heart:
+If you want to **add to the repositoy**, check the **[Contribute.md](https://github.com/Jay206-Programmer/Technical_Interview_Practice_Problems/blob/main/Contribution.md)** file. :heart:
 
 Please give the _repository_ a Star(:star:) if it helps you!!
 
