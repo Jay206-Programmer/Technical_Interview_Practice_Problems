@@ -23,7 +23,7 @@ class Solution:
                 nums[i] = 0
                 start_zero_index+=1
             i+=1
-            print(nums)
+            #print(nums)
         
         return nums
 
