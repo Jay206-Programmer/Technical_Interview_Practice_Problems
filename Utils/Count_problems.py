@@ -1,8 +1,8 @@
 ignoreDirs = ['.git','Utils','Contribution.md','LICENSE','README.md']
 
 import os
-
-os.chdir('D:\Python Projects\Python Practice\Technical_Interview_Practice_Problems')
+os.chdir('..')
+print(os.getcwd())
 findIn = [i for i in os.listdir() if i not in ignoreDirs]
 
 Count = 0
