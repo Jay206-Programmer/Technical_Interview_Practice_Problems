@@ -9,6 +9,6 @@ Current Problem Count: **43**
 
 If you want to **add to the repositoy**, check the **[Contribute.md](https://github.com/Jay206-Programmer/Technical_Interview_Practice_Problems/blob/main/Contribution.md)** file. :heart:
 
-Please give the _repository_ a Star(:star:) if it helps you.
+Please give the _repository_ a Star(:star:) if it helps you!
 
 **Have a Happy Coding Time!** :blush:
