@@ -29,7 +29,8 @@ def _lis(arr , n ):
     """Recursively get all LIS ending with arr[0], arr[1]..arr[n-2] 
        IF arr[n-1] is maller than arr[n-1], and max ending with 
        arr[n-1] needs to be updated, then update it"""
-    for i in xrange(1, n): 
+    
+    for i in range(1, n): 
         res = _lis(arr , i) 
         if arr[i-1] < arr[n-1] and res+1 > maxEndingHere: 
             maxEndingHere = res +1
